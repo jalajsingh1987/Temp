@@ -1,0 +1,4 @@
+Date,Market,Tenor,Rate,Source,Unit
+2026-01-02,<curve id e.g. INR_NDIRS>,1Y,<value>,<pricing source e.g. BGN>,<percent|bp|decimal>
+2026-01-02,<curve id e.g. INR_NDIRS>,2Y,<value>,<pricing source e.g. BGN>,<percent|bp|decimal>
+2026-01-05,<curve id e.g. INR_NDIRS>,1Y,<value>,<pricing source e.g. BGN>,<percent|bp|decimal>
